@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap");
+
+.App {
+}
+
+.Signup {
+  background-image: url("https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif");
+  min-height: 100vh;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+}
